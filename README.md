@@ -20,6 +20,6 @@
 3- Qu’est-ce que cela :
 	8.8.8.8 : ceci est un DNS (Domain Name System)ou nom de domaine, c'est un serveur qui permet de convertir des nom de domaine en adresse
 	IP du style korben.info --en--> 178.213.123.123 (source korben  info)
-	192.168.0.1:
-	255.255.255.0:
+	192.168.0.1: ceci est une adresse IP de routeur qui permet d'acceder au coté admin de notre connection internet .
+	255.255.255.0: ceci est une adresse IPV4, un masque de sous reseau donc l'adresse de celui qui utilise internet.
 	127.0.0.1: 
